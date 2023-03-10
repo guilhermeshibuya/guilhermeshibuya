@@ -2,7 +2,7 @@
 I'm Guilherme Shibuya
 
 - 🔭 I’m Computer Science student at UTFPR
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 
 <hr>
 
