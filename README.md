@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I'm Guilherme Shibuya
 
-- 🔭 I’m Computer Science student at UTFPR
-- 🌱 I’m currently learning Javascript and React
+- 🔭 Bachelor's degree in computer science by UTFPR
+- 🌱 I’m currently learning Javascript, TypeScript, React and Next
 
 <hr>
 
