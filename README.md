@@ -1,8 +1,15 @@
 ### Hi there 👋 
 I'm Guilherme Shibuya
 
-- 🔭 Bachelor's degree in computer science by UTFPR
-- 🌱 I’m currently learning Javascript, TypeScript, React and Next
+- 💻 Full Stack Developer focused on modern web applications
+- 🚀 Working mainly with JavaScript / TypeScript ecosystem
+
+<hr>
+
+### About me
+- 🎓 Bachelor's degree in Computer Science (UTFPR)
+- 💼 Full Stack Developer
+- 📚 Always improving my skills in modern frontend and backend technologies
 
 <hr>
 
@@ -17,7 +24,6 @@ I'm Guilherme Shibuya
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <hr>
